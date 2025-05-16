@@ -1,6 +1,6 @@
 # 🧠 CSE552 – Machine Learning Homework Series (Spring 2025)
 
-> 🎓 Istanbul Technical University – Graduate Level  
+> 🎓 Gebze Technical University – Graduate Level  
 > 🗂️ Homework 1–5 Full Implementations  
 > 🧾 PDF reports, Jupyter Notebooks, custom functions & visualizations  
 > 🔗 Dataset sources: UCI ML Repository, MNIST (Keras)
